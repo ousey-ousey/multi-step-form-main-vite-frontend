@@ -9,7 +9,7 @@ function ThankYou() {
     >
       <img
         style={{ margin: "2rem auto", marginBottom: "2rem" }}
-        src="/icon-thank-you.svg"
+        src="https://res.cloudinary.com/dfkn5xnul/image/upload/v1721670617/icon-thank-you_tjafhs.svg"
       />
       <Typography component="h1" variant="h5" align="center">
         Thank You!

@@ -83,8 +83,8 @@ function Root() {
               bgcolor: "background.paper",
               color: "#fff",
               backgroundImage: {
-                xs: 'url("/bg-sidebar-mobile.svg")',
-                md: 'url("/bg-sidebar-desktop.svg")',
+                xs: 'url("https://res.cloudinary.com/dfkn5xnul/image/upload/v1721670617/bg-sidebar-mobile_s77fbc.svg")',
+                md: 'url("https://res.cloudinary.com/dfkn5xnul/image/upload/v1721670618/bg-sidebar-desktop_l9od45.svg")',
               },
               backgroundSize: "cover",
               p: 2,

@@ -118,7 +118,7 @@ function STEP2() {
                 )}
                 <img
                   style={{ marginBottom: "20px" }}
-                  src="/icon-arcade.svg"
+                  src="https://res.cloudinary.com/dfkn5xnul/image/upload/v1721670617/icon-arcade_yscf8r.svg"
                   alt="Arcade"
                 />
                 <div>
@@ -168,7 +168,7 @@ function STEP2() {
                 )}
                 <img
                   style={{ marginBottom: "20px" }}
-                  src="/icon-advanced.svg"
+                  src="https://res.cloudinary.com/dfkn5xnul/image/upload/v1721670619/icon-advanced_a3dlok.svg"
                   alt="Advanced"
                 />
                 <div>
@@ -218,7 +218,7 @@ function STEP2() {
                 )}
                 <img
                   style={{ marginBottom: "20px" }}
-                  src="/icon-pro.svg"
+                  src="https://res.cloudinary.com/dfkn5xnul/image/upload/v1721670617/icon-pro_teyutg.svg"
                   alt="Pro"
                 />
                 <div>

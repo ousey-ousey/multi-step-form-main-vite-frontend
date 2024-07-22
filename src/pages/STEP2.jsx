@@ -118,7 +118,7 @@ function STEP2() {
                 )}
                 <img
                   style={{ marginBottom: "20px" }}
-                  src="../../assets/images/icon-arcade.svg"
+                  src="/icon-arcade.svg"
                   alt="Arcade"
                 />
                 <div>
@@ -168,7 +168,7 @@ function STEP2() {
                 )}
                 <img
                   style={{ marginBottom: "20px" }}
-                  src="../../assets/images/icon-advanced.svg"
+                  src="/icon-advanced.svg"
                   alt="Advanced"
                 />
                 <div>
@@ -218,7 +218,7 @@ function STEP2() {
                 )}
                 <img
                   style={{ marginBottom: "20px" }}
-                  src="../../assets/images/icon-pro.svg"
+                  src="/icon-pro.svg"
                   alt="Pro"
                 />
                 <div>

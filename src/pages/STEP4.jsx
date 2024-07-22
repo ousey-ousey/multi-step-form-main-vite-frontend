@@ -10,7 +10,7 @@ function STEP4() {
 
   const getPrice = () => {
     const { plan, billingCycle, addons } = stepData;
-    const planPrice = billingCycle === "monthly" ? plan.price : plan.price * 10;
+    const planPrice = billingCycle === "monthly" ? plan.price : plan.price * 1;
     const addonsPrice = Object.keys(addons).reduce((acc, addon) => {
       if (addons[addon]) {
         if (addon === "onlineService")

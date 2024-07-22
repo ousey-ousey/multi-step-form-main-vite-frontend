@@ -83,8 +83,8 @@ function Root() {
               bgcolor: "background.paper",
               color: "#fff",
               backgroundImage: {
-                xs: 'url("/assets/bg-sidebar-mobile.svg")',
-                md: 'url("/assets/bg-sidebar-desktop.svg")',
+                xs: 'url("/assets/images/bg-sidebar-mobile.svg")',
+                md: 'url("/assets/images/bg-sidebar-desktop.svg")',
               },
               backgroundSize: "cover",
               p: 2,
